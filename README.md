@@ -13,7 +13,8 @@ This Excel dashboard analyzes workforce layoff risk across industries, education
 - Data Visualization
 
 ## Dashboard Preview
-dashboard-preview.png
+
+![Dashboard Preview](dashboard-preview.png)
 
 ## Key Features
 - Total employee count and risk category KPIs

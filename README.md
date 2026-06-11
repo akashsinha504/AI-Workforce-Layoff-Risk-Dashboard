@@ -12,6 +12,9 @@ This Excel dashboard analyzes workforce layoff risk across industries, education
 - KPI Cards
 - Data Visualization
 
+## Dashboard Preview
+dashboard-preview.png
+
 ## Key Features
 - Total employee count and risk category KPIs
 - Layoff risk distribution by High, Medium, and Low risk
@@ -26,8 +29,10 @@ This Excel dashboard analyzes workforce layoff risk across industries, education
 - Healthcare, Telecom, and Finance show elevated risk.
 - Support and operational roles are more vulnerable.
 
-## Dashboard Preview
-![AI Workforce Layoff Risk Dashboard](Dashboard.png)
+## Dataset
+The dataset contains 20,000 employee records with details such as industry, education level, job role, AI adoption category, and layoff risk classification.
+
+
 
 ## Conclusion
 This project demonstrates Excel dashboarding, workforce analytics, KPI reporting, and business insight generation.
